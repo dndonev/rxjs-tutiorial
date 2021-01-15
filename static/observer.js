@@ -23,4 +23,4 @@ subject.subscribe({
 	}
 })
 
-subject.notify('ke pasa');
+subject.notify('sup');
